@@ -13,4 +13,4 @@ All notable changes to this project will be documented here.
 - Added pack.mcmeta Generator
 - Added Coordinations convertor
 
--# using YYYY-MM-DD and SemVer
+> using YYYY-MM-DD and SemVer
