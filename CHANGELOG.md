@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented here.
 
+## [1.0.1] - 2025-08-06
+### Added
+- Better SEO & favicon (inspired by original github new-acc profile pic)
+
 ## [1.0.1] - 2025-08-05
 ### Added
 - 64x64 Image Compressor tool
