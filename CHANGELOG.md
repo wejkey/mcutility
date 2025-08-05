@@ -4,6 +4,7 @@ All notable changes to this project will be documented here.
 
 ## [1.0.1] - 2025-08-05
 ### Added
+- 64x64 Image Compressor tool
 - Early Development information on mainpage
 - Changelog
 - Clickable navbar icon/title for homepage teleportation
