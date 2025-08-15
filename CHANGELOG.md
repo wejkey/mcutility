@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented here.
 
+## [1.0.3] - 2025-08-15
+### Changed
+- Icon
+
+### Removed
+- Unused changelog page
+
 ## [1.0.2] - 2025-08-06
 ### Added
 - Better SEO & favicon (inspired by original github new-acc profile pic)
