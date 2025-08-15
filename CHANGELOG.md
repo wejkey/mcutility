@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented here.
 
+## [1.0.4] - 2025-08-15
+### Fixed
+- Footer links
+
 ## [1.0.3] - 2025-08-15
 ### Changed
 - Icon
